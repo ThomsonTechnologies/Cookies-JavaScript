@@ -1,0 +1,255 @@
+@charset "utf-8";
+body {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#wrapper {
+	height: 1000px;
+	background-color: #D96D02;
+	width: 100%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#wrapper h1 {
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	position: absolute;
+	left: 26px;
+	top: 5px;
+	text-shadow: 0px 0px 6px #000000;
+	color: #D96D02;
+
+}
+
+#sideBox {
+	width: 350px;
+	height: 900px;
+	display: inline-block;
+	margin-top: 62px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	background-color: #25211D;
+	-webkit-box-shadow: 5px 0px 11px #131312;
+	box-shadow: 5px 0px 11px #131312;
+	border-right: 1px solid #463C34;
+	position: absolute;
+
+}
+
+#main {
+	height: 900px;
+	display: inline-block;
+	width: 70%;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+#main h2 {
+	position: absolute;
+	margin-top: 91px;
+	margin-left: 473px;
+	color: #FFFFFF;
+	font-family: bilbo-swash-caps;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 35px;
+	text-shadow: 3px 3px 2px #000000;
+}
+
+#registerForm {
+	width: 629px;
+	height: 309px;
+	position: absolute;
+	margin-top: 176px;
+	margin-left: 417px;
+	color: #F1EEEE;
+	padding-top: 11px;
+	padding-right: 11px;
+	padding-bottom: 11px;
+	padding-left: 11px;
+}
+
+
+#sbutton {
+	background-color: #6BA705;
+	width: 66px;
+	height: 30px;
+	border-radius: 7px;
+	color: #ECFC44;
+	margin-left: 297px;
+	text-align: center;
+	font-family: "Chaparral Pro";
+	font-size: 15px;
+	text-shadow: 0px 0px 2px #000000;
+	-webkit-box-shadow: 0px 0px 2px 1px #50514F;
+	box-shadow: 0px 0px 2px 1px #50514F;
+}
+
+#regTable {
+	text-align: right;
+	font-family: bilbo;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 21px;
+	text-shadow: 2px 3px 2px #000000;
+}
+input {
+	text-align: left;
+	border-radius: 4px;
+	height: 27px;
+	-webkit-box-shadow: inset 0 0 2px 1px #3A3937;
+	box-shadow: inset 0 0 2px 1px #3A3937;
+	text-shadow: 0px 0px;
+	border-style: none;
+	background-color: #FFF9F3;
+}
+
+table col#firstCol {width: 130px}
+
+td                 {
+	vertical-align: top;
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+}
+					
+#accountBox {
+	color: #888684;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 16px;
+	margin-top: 607px;
+	font-family: josefin-slab;
+	-webkit-box-shadow: inset 0px 0px 2px 1px #4F473C;
+	box-shadow: inset 0px 0px 2px 1px #4F473C;
+	padding-top: 13px;
+	padding-right: 13px;
+	padding-bottom: 13px;
+	padding-left: 13px;
+	margin-right: 8px;
+	margin-left: 6px;
+}
+#userInfo {
+	font-size: 20px;
+	text-align: left;
+	font-weight: bolder;
+	-webkit-box-shadow: 0px 0px;
+	box-shadow: 0px 0px;
+	text-decoration: underline;
+}
+
+#greeting {
+	position: absolute;
+	margin-left: 476px;
+	margin-top: 64px;
+	font-family: bilbo-swash-caps;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 37px;
+	color: #EDE8DF;
+	text-align: left;
+	text-shadow: 4px 4px 3px #0B0B0A;
+}
+#greetName {
+	margin-left: 42px;
+	color: #90F816;
+}
+
+#guest {
+	font-family: architects-daughter;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 13px;
+	margin-left: 107px;
+}
+a {
+	text-decoration: none;
+	color: #F3F925;
+}
+#navBox {
+	width: 76px;
+	height: 190px;
+	color: #4E453B;
+	position: absolute;
+	display: block;
+	top: 127px;
+	text-shadow: 0px 0px 1px;
+	left: 209px;
+	padding-left: 14px;
+	margin-left: 93px;
+}
+#navBox h2 {
+	padding-top: 10px;
+}
+
+
+#home {
+	width: 60px;
+	height: 100px;
+	background-color: #25211D;
+	border-radius: 6px;
+	-webkit-box-shadow: 0px 0px 4px #000000;
+	box-shadow: 0px 0px 4px #000000;
+	text-align: right;
+}
+#register {
+	width: 60px;
+	height: 100px;
+	text-align: right;
+	border-radius: 6px;
+	background-color: #25211D;
+	-webkit-box-shadow: 0px 0px 4px #000000;
+	box-shadow: 0px 0px 4px #000000;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+#account {
+	width: 60px;
+	height: 100px;
+	text-align: right;
+	border-radius: 6px;
+	background-color: #25211D;
+	-webkit-box-shadow: 0px 0px 4px #000000;
+	box-shadow: 0px 0px 4px #000000;
+	border-right: 1px solid #625950;
+}
+#welcome {
+	position: absolute;
+	top: 10px;
+	color: #F7F2F2;
+}
+#welcomeBack {
+	font-family: bilbo;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 24px;
+	color: #B9B5B1;
+}
+#welcomeUser {
+	margin-left: 50px;
+	font-family: bilbo;
+	font-style: normal;
+	font-weight: 400;
+	color: #89CC04;
+	font-size: 26px;
+}
+#webData {
+	color: #AA9F94;
+	margin-top: 800px;
+	margin-left: 7px;
+	font-family: stint-ultra-condensed;
+	font-style: normal;
+	font-weight: 400;
+}
+#data {
+	margin-left: 10px;
+}
